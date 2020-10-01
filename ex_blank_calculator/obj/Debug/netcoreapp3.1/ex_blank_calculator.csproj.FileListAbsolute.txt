@@ -1,0 +1,13 @@
+C:\Users\ibnu\source\repos\Solution_Calculator\ex_blank_calculator\bin\Debug\netcoreapp3.1\ex_blank_calculator.exe
+C:\Users\ibnu\source\repos\Solution_Calculator\ex_blank_calculator\bin\Debug\netcoreapp3.1\ex_blank_calculator.deps.json
+C:\Users\ibnu\source\repos\Solution_Calculator\ex_blank_calculator\bin\Debug\netcoreapp3.1\ex_blank_calculator.runtimeconfig.json
+C:\Users\ibnu\source\repos\Solution_Calculator\ex_blank_calculator\bin\Debug\netcoreapp3.1\ex_blank_calculator.runtimeconfig.dev.json
+C:\Users\ibnu\source\repos\Solution_Calculator\ex_blank_calculator\bin\Debug\netcoreapp3.1\ex_blank_calculator.dll
+C:\Users\ibnu\source\repos\Solution_Calculator\ex_blank_calculator\bin\Debug\netcoreapp3.1\ex_blank_calculator.pdb
+C:\Users\ibnu\source\repos\Solution_Calculator\ex_blank_calculator\obj\Debug\netcoreapp3.1\ex_blank_calculator.csprojAssemblyReference.cache
+C:\Users\ibnu\source\repos\Solution_Calculator\ex_blank_calculator\obj\Debug\netcoreapp3.1\ex_blank_calculator.AssemblyInfoInputs.cache
+C:\Users\ibnu\source\repos\Solution_Calculator\ex_blank_calculator\obj\Debug\netcoreapp3.1\ex_blank_calculator.AssemblyInfo.cs
+C:\Users\ibnu\source\repos\Solution_Calculator\ex_blank_calculator\obj\Debug\netcoreapp3.1\ex_blank_calculator.csproj.CoreCompileInputs.cache
+C:\Users\ibnu\source\repos\Solution_Calculator\ex_blank_calculator\obj\Debug\netcoreapp3.1\ex_blank_calculator.dll
+C:\Users\ibnu\source\repos\Solution_Calculator\ex_blank_calculator\obj\Debug\netcoreapp3.1\ex_blank_calculator.pdb
+C:\Users\ibnu\source\repos\Solution_Calculator\ex_blank_calculator\obj\Debug\netcoreapp3.1\ex_blank_calculator.genruntimeconfig.cache

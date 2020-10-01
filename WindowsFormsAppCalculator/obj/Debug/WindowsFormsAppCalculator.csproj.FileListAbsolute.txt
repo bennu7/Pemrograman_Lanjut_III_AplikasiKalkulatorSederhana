@@ -1,0 +1,10 @@
+C:\Users\ibnu\source\repos\Solution_Calculator\WindowsFormsAppCalculator\bin\Debug\WindowsFormsAppCalculator.exe.config
+C:\Users\ibnu\source\repos\Solution_Calculator\WindowsFormsAppCalculator\bin\Debug\WindowsFormsAppCalculator.exe
+C:\Users\ibnu\source\repos\Solution_Calculator\WindowsFormsAppCalculator\bin\Debug\WindowsFormsAppCalculator.pdb
+C:\Users\ibnu\source\repos\Solution_Calculator\WindowsFormsAppCalculator\obj\Debug\WindowsFormsAppCalculator.csprojAssemblyReference.cache
+C:\Users\ibnu\source\repos\Solution_Calculator\WindowsFormsAppCalculator\obj\Debug\WindowsFormsAppCalculator.Form1.resources
+C:\Users\ibnu\source\repos\Solution_Calculator\WindowsFormsAppCalculator\obj\Debug\WindowsFormsAppCalculator.Properties.Resources.resources
+C:\Users\ibnu\source\repos\Solution_Calculator\WindowsFormsAppCalculator\obj\Debug\WindowsFormsAppCalculator.csproj.GenerateResource.cache
+C:\Users\ibnu\source\repos\Solution_Calculator\WindowsFormsAppCalculator\obj\Debug\WindowsFormsAppCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ibnu\source\repos\Solution_Calculator\WindowsFormsAppCalculator\obj\Debug\WindowsFormsAppCalculator.exe
+C:\Users\ibnu\source\repos\Solution_Calculator\WindowsFormsAppCalculator\obj\Debug\WindowsFormsAppCalculator.pdb
